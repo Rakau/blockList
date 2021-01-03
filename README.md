@@ -3,4 +3,4 @@
 适用于此项目 https://github.com/sprov065/soga
 
 # Soga用法
-以Root权限运行 wget https://github.com/Rakau/soga-blockList/raw/main/blockList -O /etc/soga/blockList
+以Root权限运行 # wget https://github.com/Rakau/soga-blockList/raw/main/blockList -O /etc/soga/blockList
