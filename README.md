@@ -1,6 +1,8 @@
 # 说明
 一些中国域名、Fake News和轮子域名的屏蔽列表
+
 适用于以下项目：
+
 https://github.com/sprov065/soga
 
 https://github.com/XrayR-project/XrayR
