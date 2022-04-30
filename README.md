@@ -5,7 +5,7 @@
 
 https://github.com/sprov065/soga
 
-https://github.com/XrayR-project/XrayR
+https://github.com/Misaka-blog/XrayR
 
 # Soga用法
 
