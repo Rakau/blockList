@@ -1,3 +1,4 @@
+# 轮子、Fake News
 falundafa
 minghui
 epochtimes
@@ -11,8 +12,6 @@ bloomberg
 independent
 freetibet
 citizenpowerfor
-gov
-edu
 rfa.org
 bbc.com
 theinitium.com
@@ -50,12 +49,16 @@ bbc.co.uk
 cirosantilli
 wsj.com
 rfi.fr
+# 容易被利用于欺诈
 beanfun.com
 gashpoint.com
-# 以下为中国大陆域名
-10010.com
-189.cn
-10086.cn
+# 政府、学校、金融机构
+gov
+edu
+alipay.com
+tenpay.com
+unionpay.com
+yunshanfu.cn
 icbc.com.cn
 ccb.com
 boc.cn
@@ -74,12 +77,14 @@ cgbchina.com.cn
 jcbcard.cn
 pbccrc.org.cn
 adbc.com.cn
+# 中国大陆不适用代理的域名
+10010.com
+189.cn
+10086.cn
 1688.com
 jd.com
 taobao.com
 pinduoduo.com
-alipay.com
-tenpay.com
 cctv.com
 cntv.cn
 tianya.cn
@@ -89,7 +94,5 @@ rednet.cn
 weibo.com
 zhihu.com
 douban.com
-yunshanfu.cn
-unionpay.com
 tmall.com
 vip.com
