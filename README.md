@@ -7,6 +7,15 @@ https://github.com/sprov065/soga
 
 https://github.com/Misaka-blog/XrayR
 
+# 关于PR
+本项目欢迎PR，但请了解如下说明后再Pull
+
+1、有争议的不会合并
+2、格式排版不正常的不会合并
+3、主审计范围外的审计规则不注释的不会合并
+4、弊大于利的不会合并
+5、带有个人用途范围并且不考虑大众适用范围的不会合并
+
 # Soga用法
 
 以Root权限运行之后重启你的Soga  
