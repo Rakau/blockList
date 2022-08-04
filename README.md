@@ -5,7 +5,7 @@
 
 https://github.com/sprov065/soga
 
-https://github.com/newxrayr/XrayR
+https://github.com/XrayR-project/XrayR
 
 # 关于PR
 本项目欢迎PR，但请了解如下说明后再Pull
