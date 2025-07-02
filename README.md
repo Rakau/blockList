@@ -7,6 +7,8 @@ https://github.com/sprov065/soga
 
 https://github.com/XrayR-project/XrayR
 
+https://github.com/wyx2685/V2bX
+
 # 关于PR
 本项目欢迎PR，但请了解如下说明后再Pull
 
@@ -35,4 +37,11 @@ wget https://raw.githubusercontent.com/Rakau/blockList/main/blockList -O /etc/so
 
 ```
 wget https://raw.githubusercontent.com/Rakau/blockList/main/blockList -O /etc/XrayR/rulelist
+```
+# V2bX用法
+
+以Root权限运行之后重启你的V2bX 
+
+```
+wget https://raw.githubusercontent.com/Rakau/blockList/main/route.json -O /etc/V2bX/route.json
 ```
